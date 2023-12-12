@@ -358,5 +358,4 @@ while isActive:
     # 8.화면 갱신
     pygame.display.flip()
     clock.tick(100)
-    print('check')
-##### 반복####3
+##### 반복####
